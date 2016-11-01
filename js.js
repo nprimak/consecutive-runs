@@ -23,13 +23,11 @@ function searchConsecutiveNumbers() {
         if(integerArray[i]+1 === integerArray[i+1]){
             if(integerArray[i]+2 === integerArray[i+2]){
                 indices.push(i);
-                console.log("it is consecutive positive!");
             }
         }
         if(integerArray[i]-1 === integerArray[i+1]){
             if(integerArray[i]-2 === integerArray[i+2]){
                 indices.push(i);
-                console.log("it is consecutive negative!");
             }
         }
     }

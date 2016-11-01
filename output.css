@@ -5,7 +5,7 @@ main {
   background-color: white;
   padding: 15px;
   border-radius: 10px;
-  min-height: 400px; }
+  min-height: 350px; }
 
 .answer-row {
   margin-left: 15px;
@@ -53,7 +53,7 @@ label {
 
 #indicesArray h1 {
   color: #c0c0f2;
-  font-size: 5em;
+  font-size: 2.5em;
   padding-top: 0px;
   text-transform: uppercase;
   text-align: center;

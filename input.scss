@@ -10,7 +10,7 @@ main {
   background-color: white;
   padding: 15px;
   border-radius: 10px;
-  min-height: 400px;
+  min-height: 350px;
 }
 
 .answer-row {
@@ -72,7 +72,7 @@ label {
 #indicesArray {
   h1{
     color: darken($lavender, 5%);
-    font-size: 5em;
+    font-size: 2.5em;
     padding-top: 0px;
     text-transform: uppercase;
     text-align: center;
